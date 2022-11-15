@@ -1,0 +1,37 @@
+/* Write your CSS code here */
+.navbar {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+}
+.nav-link {
+  margin-right: 7px;
+  font-weight: 600;
+  font-size: 20px;
+  text-decoration: none;
+  color: black;
+  border-style: none;
+}
+
+.imagee {
+  height: 20px;
+  width: 20px;
+}
+.heading-wave {
+  color: black;
+  font-size: 20px;
+}
+.flex-container-navbar-1 {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}
+.flex-container-navbar-2 {
+  list-style: none;
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,12 @@
+/* Write your CSS code here */
+.about-con {
+  margin-top: 40px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.home-image {
+  width: 200px;
+}
